@@ -44,9 +44,11 @@ Para cumprir a exigência de aceleração local via hardware dedicado:
 > * **Monitoramento da GPU no VS Code (Alocação de VRAM e núcleos CUDA)**
 >   
 >   *GPU trabalhando durante a inferência do modelo:*
+>
 >   ![GPU em uso](images/Desempenho_Gpu_em_uso.png)
 >   
 >   *Comparativo da GPU sem uso (repouso):*
+>
 >   ![GPU sem uso](images/Desempenho_Gpu_sem_uso.png)
 >
 > * **Interface web do Streamlit**
